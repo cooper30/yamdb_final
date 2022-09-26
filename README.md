@@ -3,6 +3,7 @@
 ***
 ![yamdb_final_workflow](https://github.com/cooper30/yamdb_final/workflows/yamdb_final_workflow/badge.svg)
 
+[DEMO](http://51.250.1.98)
 
 ### Описание проекта:
 
