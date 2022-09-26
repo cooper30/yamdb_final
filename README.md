@@ -1,7 +1,7 @@
 
 ## Api_yamdb
 ***
-![yamdb_final_workflow](https://github.com/cooper30/yamdb_final/workflows/yamdb_workflow/badge.svg)
+![yamdb_final_workflow](https://github.com/cooper30/yamdb_final/workflows/yamdb_final_workflow/badge.svg)
 
 
 ### Описание проекта:
