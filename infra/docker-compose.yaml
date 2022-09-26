@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: cooper30/yamdb_web:latest
+    image: cooper30/yamdb_web
     restart: always
     volumes:
       - static_value:/app/static/
